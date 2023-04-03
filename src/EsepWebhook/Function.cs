@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@chirag0116 
-jcutrono
-/
-esep-webhooks
-Public
-Fork your own copy of jcutrono/esep-webhooks
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Security
-Insights
-esep-webhooks/EsepWebhook/src/EsepWebhook/Function.cs /
-@jcutrono
-jcutrono using environment variables with underscore...
-Latest commit d07f621 on Feb 23
- History
- 1 contributor
-36 lines (28 sloc)  1.21 KB
-
 using System.Text;
 using Amazon.Lambda.Core;
 using Newtonsoft.Json;
