@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcM8slg8yspIEobcovUZMuK3fkcN29FDkPNZ9ra5DpVc4S0sBzyhN0d6l9cFBjydrr5IgmrVjeEAW0w5T6X3qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mona_\\OneDrive\\Documents\\Chirag_School\\Spring2023\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mona_\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\mona_\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\mona_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\mona_\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.15\\microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\mona_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\mona_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\mona_\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\mona_\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.15\\microsoft.netcore.app.crossgen2.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
